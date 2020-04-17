@@ -1,7 +1,11 @@
-# subgrabber
+# Subgrabber
 
-1.Collecting .html pages
+Subgrabber is a tool that collects subdomains from web pages.
 
-2.Looking for subdomains on page 
+# Usage
 
-3.Subdomains names resolving
+cd subgrabber-master
+
+chmod +x subgrabber.sh
+
+./subgrabber.sh <.txt with URL's>
