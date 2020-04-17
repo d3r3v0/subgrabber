@@ -4,8 +4,14 @@ Subgrabber is a tool that collects subdomains from web pages.
 
 # Usage
 
-cd subgrabber-master
+*Clone or download repo and cd to master directory*
 
-chmod +x subgrabber.sh
+`$ cd subgrabber-master`
 
-./subgrabber.sh <.txt with URL's>
+*Make script executable*
+
+`$ chmod +x subgrabber.sh`
+
+*Start grabbing URL's from .txt file*
+
+`$ ./subgrabber.sh <.txt with URL's>`
